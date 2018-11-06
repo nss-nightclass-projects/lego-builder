@@ -4,6 +4,27 @@ This assignment is inspired by [this pretty cool book](https://www.youtube.com/w
 
 ## Setup
 
+You will have at least this many files with your setup:
+```
+|- db
+    |- parts.json
+|- src
+    |- components
+        |- legoCharacter.js
+        |- legoCharacter.scss
+    |- data
+        |- partsData.js
+    |- index.js
+    |- index.scss
+    |- index.html
+|- .eslintignore
+|- .eslintrc
+|- .gitignore
+|- package.json
+|- README.md
+|- webpack.config.js
+```
+
 ## Requirements
 
 - When the user loads the page, they should see a head, a torso, and legs render on the page to make a constructed lego character. The character should have a name that is the concatenated names of the head + torso + legs respectively.
