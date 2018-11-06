@@ -27,6 +27,7 @@ You will have at least this many files with your setup:
 
 ## Requirements
 
+- Use [SASS](https://sass-lang.com/guide) for styling your page and components.
 - When the user loads the page, they should see a head, a torso, and legs render on the page to make a constructed lego character. The character should have a name that is the concatenated names of the head + torso + legs respectively.
 - There should be some way for the user to change the selected head, torso, and leg elements. You should implement at least one of these:
   1. 3 dropdowns that contain the different options the user can choose. When the user chooses an option, it changes the built lego character. 
