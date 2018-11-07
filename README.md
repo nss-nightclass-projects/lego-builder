@@ -42,7 +42,7 @@ You will have at least this many files with your setup:
   - Your saved object should look like 
 ```
 {
-  "name": wondererialguard
+  "name": "wondererialguard",
   "headImage": "https://www.firestartoys.com/ProductImages/11345/BIG/BIG/BIG/11345.jpg",
   "torsoImage": "https://img.brickowl.com/files/image_cache/large/lego-imperial-guard-torso-with-red-arms-and-yellow-hands-973-25.jpg",
   "legImage": "https://img.brickowl.com/files/image_cache/large/lego-white-minifigure-hips-and-legs-73200-88584-30-863328-92.jpg"
