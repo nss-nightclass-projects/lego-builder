@@ -1,0 +1,20 @@
+{
+  "name": "lego-builder",
+  "version": "1.0.0",
+  "description": "This assignment is inspired in part by [this pretty nifty book](https://www.youtube.com/watch?v=tDnDrO7neUE) 📖",
+  "main": ".webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-khezri/lego-builder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-khezri/lego-builder/issues"
+  },
+  "homepage": "https://github.com/m-khezri/lego-builder#readme"
+}
