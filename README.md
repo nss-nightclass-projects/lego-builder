@@ -40,14 +40,14 @@ You will have at least this many files with your setup:
   1. Create a randomizer button that will randomly swap out your lego character's pieces.
 - You should have the ability to save lego characters by clicking on a save button. The saved lego characters should show up with their character's name and optionally with smaller composite thumbnail image. You should be able to save multiple characters (but sadly these will go away when you refresh the page).
   - Your saved object should look like 
-```
-{
-  "name": "wondererialguard",
-  "headImage": "https://www.firestartoys.com/ProductImages/11345/BIG/BIG/BIG/11345.jpg",
-  "torsoImage": "https://img.brickowl.com/files/image_cache/large/lego-imperial-guard-torso-with-red-arms-and-yellow-hands-973-25.jpg",
-  "legImage": "https://img.brickowl.com/files/image_cache/large/lego-white-minifigure-hips-and-legs-73200-88584-30-863328-92.jpg"
-}
-```
+    ```
+    {
+      "name": "wondererialguard",
+      "headImage": "https://www.firestartoys.com/ProductImages/11345/BIG/BIG/BIG/11345.jpg",
+      "torsoImage": "https://img.brickowl.com/files/image_cache/large/lego-imperial-guard-torso-with-red-arms-and-yellow-hands-973-25.jpg",
+      "legImage": "https://img.brickowl.com/files/image_cache/large/lego-white-minifigure-hips-and-legs-73200-88584-30-863328-92.jpg"
+    }
+    ```
   
 ## Bonus
 
